@@ -1,1 +1,1 @@
-# Inventory-Sales-Data-Analytics-
+# Inventory-Sales-Data-Analytics
